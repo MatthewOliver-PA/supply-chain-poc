@@ -1,0 +1,20 @@
+{
+  "name": "supply-chain-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MatthewOliver-PA@bitbucket.org/teamalphaone1/circular-packaging-blockchain.git"
+  },
+  "author": "matt.oliver@paconsulting.com",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/teamalphaone1/circular-packaging-blockchain#readme",
+  "dependencies": {
+    "cbor": "^5.0.1",
+    "sawtooth-sdk": "^1.0.5"
+  }
+}
